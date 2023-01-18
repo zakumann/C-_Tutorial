@@ -19,10 +19,25 @@
     <Filter Include="Source Files\Conditional Operator\src">
       <UniqueIdentifier>{210e78f2-fcec-41f5-85de-4a2d3f70cbfa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\UsingDcl1">
+      <UniqueIdentifier>{81d15b28-71f7-4c25-b0d8-e0872c76f4db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UsingDcl2">
+      <UniqueIdentifier>{f7a9ad7f-1b8a-471c-ba75-58ba926afd37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UsingDcl3">
+      <UniqueIdentifier>{c31f3078-2de3-40ad-b1c6-447893b7ad92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NameAlias">
+      <UniqueIdentifier>{1d219f4d-62bc-49a1-9699-edd90a72caf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BankingSystemVer01">
+      <UniqueIdentifier>{e49d0917-6602-4061-bf66-8bfb653cbf8b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files\Conditional Operator\src</Filter>
+    <ClCompile Include="BankingSystemVer01.cpp">
+      <Filter>Source Files\BankingSystemVer01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
